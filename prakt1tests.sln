@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPassword", "prakt1tests\CheckPassword.csproj", "{88122114-802C-45D9-BED0-129980E118BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPassword.Tests", "CheckPassword.Tests\CheckPassword.Tests.csproj", "{8CDF4EE2-24DD-4A29-8FE3-86E249F549F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88122114-802C-45D9-BED0-129980E118BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88122114-802C-45D9-BED0-129980E118BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88122114-802C-45D9-BED0-129980E118BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88122114-802C-45D9-BED0-129980E118BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDF4EE2-24DD-4A29-8FE3-86E249F549F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDF4EE2-24DD-4A29-8FE3-86E249F549F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDF4EE2-24DD-4A29-8FE3-86E249F549F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDF4EE2-24DD-4A29-8FE3-86E249F549F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A8ED096-9858-49C0-8D22-9B537BC61091}
+	EndGlobalSection
+EndGlobal

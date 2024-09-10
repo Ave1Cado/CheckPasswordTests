@@ -1,0 +1,6 @@
+C:\Users\Mi\source\repos\prakt1tests\prakt1tests\bin\Debug\prakt1tests.dll
+C:\Users\Mi\source\repos\prakt1tests\prakt1tests\bin\Debug\prakt1tests.pdb
+C:\Users\Mi\source\repos\prakt1tests\prakt1tests\obj\Debug\prakt1tests.csproj.AssemblyReference.cache
+C:\Users\Mi\source\repos\prakt1tests\prakt1tests\obj\Debug\prakt1tests.csproj.CoreCompileInputs.cache
+C:\Users\Mi\source\repos\prakt1tests\prakt1tests\obj\Debug\prakt1tests.dll
+C:\Users\Mi\source\repos\prakt1tests\prakt1tests\obj\Debug\prakt1tests.pdb
